@@ -6,6 +6,7 @@
 * Email: vladzlafm@gmail.com
 * Telegram: @ojShmebulock
 * Inst: vladzlaf
+
 ---------------
 ### About me
 A young man looking for a place to practice his knowledge or just his calling. During my studies, I gained experience of participating in various scientific conferences, as well as other educational projects and competitions. I also actively took various courses in search of myself and was very attracted to programming. Of the strengths I can single out stress resistance, diligence, the ability to adapt to any situation, self-confidence. I am a champion of BSU in swimming, as well as a responsible and executive student with 7 in the GPA and I am also fond of programming. Therefore, I can say for sure that I know about hard work and competent prioritization are. I try to develop comprehensively, I am interested in politics, psychology, foreign languages, literature and of course programming. Thank you!
@@ -17,6 +18,7 @@ A young man looking for a place to practice his knowledge or just his calling. D
 * CSS
 * Git
 * VS Code
+
 ------------------- 
 
 ### Code example:
@@ -50,6 +52,7 @@ function getSum( a,b ){
 * [JavaScript Основы для Начинающих - Полный Курс за 6 часов 2020](https://www.youtube.com/watch?v=Bluxbh9CaQ0&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
 ----------------
 ### Experience
+
 | Organization | Position | Time |
 | --- | --- | --- |
 | Confederation of Entrepreneurs |General manager |2018 - 2019 |
